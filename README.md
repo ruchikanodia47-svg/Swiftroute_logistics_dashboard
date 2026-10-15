@@ -88,7 +88,7 @@ Based on the dashboard visuals for December 2024:
 
 ## 📁 Project Files
 
-- `Swiftroute logistics dashboard.pbix` – Power BI dashboard file
+- `Swiftroute Project.pbix` – Power BI dashboard file
 - Dashboard screenshots – Preview of the dashboard pages
 
 ## 🚀 How to Use
